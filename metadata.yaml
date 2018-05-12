@@ -1,0 +1,31 @@
+_repo: '---_25123'
+_version: 0.1.0
+alternative_title: Pi wei lun
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Li, Gao
+    alias: 李杲
+    birthdate: 1180
+    deathdate: 1251
+    gutenberg_agent_id: '28421'
+    url: http://www.gutenberg.org/2009/agents/28421
+description: ''
+gutenberg_issued: '2008-04-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '25123'
+language: zh
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Stomach -- Diseases -- Early works to 1800'
+- !lcsh 'Medicine, Chinese -- Early works to 1800'
+- !lcsh 'Gastroenterology -- Early works to 1800'
+- !lcc 'RC'
+- !lcsh 'Spleen -- Diseases -- Early works to 1800'
+title: 脾胃論
+url: http://www.gutenberg.org/ebooks/25123
